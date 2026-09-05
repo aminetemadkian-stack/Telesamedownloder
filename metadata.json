@@ -1,0 +1,6 @@
+{
+  "name": "TeleStream Hub",
+  "description": "Telegram & Instagram video player, podcast audio player, PDF document reader, playlist organizer, and smart offline storage manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

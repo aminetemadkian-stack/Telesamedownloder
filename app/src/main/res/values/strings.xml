@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TeleStream Hub</string>
+    <string name="app_tagline">Telegram Video Analyzer &amp; Playlist Downloader</string>
+    <string name="nav_feed">ویدیوها / کاوش</string>
+    <string name="nav_playlists">پلی‌لیست‌ها</string>
+    <string name="nav_downloads">دانلودها</string>
+    <string name="nav_favorites">علاقه‌مندی‌ها</string>
+    <string name="nav_proxy">پروکسی و تنظیمات</string>
+    <string name="add_telegram_link">افزودن لینک تلگرام</string>
+    <string name="analyze_with_gemini">آنالیز هوشمند با هوش مصنوعی</string>
+    <string name="download_video">دانلود ویدیو</string>
+    <string name="delete_video">حذف ویدیو</string>
+    <string name="forward_video">فوروارد / اشتراک‌گذاری</string>
+    <string name="proxy_status">وضعیت پروکسی</string>
+</resources>
